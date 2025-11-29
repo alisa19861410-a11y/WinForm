@@ -1,0 +1,53 @@
+﻿  MyForm1.cpp
+C:\Users\пк\source\repos\WinForms\MyForm1.cpp(1516,27): warning C4101: ex: неиспользованная локальная переменная
+  MyForm2.cpp
+  MyForm3.cpp
+  MyForm6.cpp
+  Создание кода...
+  MyForm1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+MyForm2.obj : error LNK2020: неразрешенная лексема (06000056) WinForms.MyForm1::.ctor
+MyForm1.obj : error LNK2020: неразрешенная лексема (06000004) WinForms.MyForm1::.ctor
+MyForm2.obj : error LNK2020: неразрешенная лексема (06000057) WinForms.MyForm1::~MyForm1
+MyForm1.obj : error LNK2020: неразрешенная лексема (06000005) WinForms.MyForm1::~MyForm1
+MyForm6.obj : error LNK2020: неразрешенная лексема (06000011) WinForms.MyForm3::.ctor
+MyForm3.obj : error LNK2020: неразрешенная лексема (06000011) WinForms.MyForm3::.ctor
+MyForm2.obj : error LNK2020: неразрешенная лексема (06000011) WinForms.MyForm3::.ctor
+MyForm1.obj : error LNK2020: неразрешенная лексема (06000018) WinForms.MyForm3::.ctor
+MyForm6.obj : error LNK2020: неразрешенная лексема (06000012) WinForms.MyForm3::.ctor
+MyForm3.obj : error LNK2020: неразрешенная лексема (06000012) WinForms.MyForm3::.ctor
+MyForm2.obj : error LNK2020: неразрешенная лексема (06000012) WinForms.MyForm3::.ctor
+MyForm1.obj : error LNK2020: неразрешенная лексема (06000019) WinForms.MyForm3::.ctor
+MyForm6.obj : error LNK2020: неразрешенная лексема (06000013) WinForms.MyForm3::~MyForm3
+MyForm3.obj : error LNK2020: неразрешенная лексема (06000013) WinForms.MyForm3::~MyForm3
+MyForm2.obj : error LNK2020: неразрешенная лексема (06000013) WinForms.MyForm3::~MyForm3
+MyForm1.obj : error LNK2020: неразрешенная лексема (0600001A) WinForms.MyForm3::~MyForm3
+MyForm4.obj : error LNK2020: неразрешенная лексема (0600000F) WinForms.MyForm4::.ctor
+MyForm2.obj : error LNK2020: неразрешенная лексема (06000035) WinForms.MyForm4::.ctor
+MyForm1.obj : error LNK2020: неразрешенная лексема (0600003C) WinForms.MyForm4::.ctor
+MyForm4.obj : error LNK2020: неразрешенная лексема (06000010) WinForms.MyForm4::.ctor
+MyForm2.obj : error LNK2020: неразрешенная лексема (06000036) WinForms.MyForm4::.ctor
+MyForm1.obj : error LNK2020: неразрешенная лексема (0600003D) WinForms.MyForm4::.ctor
+MyForm4.obj : error LNK2020: неразрешенная лексема (06000011) WinForms.MyForm4::~MyForm4
+MyForm2.obj : error LNK2020: неразрешенная лексема (06000037) WinForms.MyForm4::~MyForm4
+MyForm1.obj : error LNK2020: неразрешенная лексема (0600003E) WinForms.MyForm4::~MyForm4
+MyForm2.obj : error LNK2020: неразрешенная лексема (0600004A) WinForms.MyForm2::.ctor
+MyForm1.obj : error LNK2020: неразрешенная лексема (06000051) WinForms.MyForm2::.ctor
+MyForm2.obj : error LNK2020: неразрешенная лексема (0600004B) WinForms.MyForm2::.ctor
+MyForm1.obj : error LNK2020: неразрешенная лексема (06000052) WinForms.MyForm2::.ctor
+MyForm2.obj : error LNK2020: неразрешенная лексема (0600004C) WinForms.MyForm2::.ctor
+MyForm1.obj : error LNK2020: неразрешенная лексема (06000053) WinForms.MyForm2::.ctor
+MyForm2.obj : error LNK2020: неразрешенная лексема (0600004D) WinForms.MyForm2::.ctor
+MyForm1.obj : error LNK2020: неразрешенная лексема (06000054) WinForms.MyForm2::.ctor
+MyForm2.obj : error LNK2020: неразрешенная лексема (0600004E) WinForms.MyForm2::~MyForm2
+MyForm1.obj : error LNK2020: неразрешенная лексема (06000055) WinForms.MyForm2::~MyForm2
+MyForm5.obj : error LNK2020: неразрешенная лексема (0600000D) WinForms.MyForm5::.ctor
+MyForm1.obj : error LNK2020: неразрешенная лексема (06000066) WinForms.MyForm5::.ctor
+MyForm5.obj : error LNK2020: неразрешенная лексема (0600000E) WinForms.MyForm5::.ctor
+MyForm1.obj : error LNK2020: неразрешенная лексема (06000067) WinForms.MyForm5::.ctor
+MyForm5.obj : error LNK2020: неразрешенная лексема (0600000F) WinForms.MyForm5::~MyForm5
+MyForm1.obj : error LNK2020: неразрешенная лексема (06000068) WinForms.MyForm5::~MyForm5
+MyForm6.obj : error LNK2020: неразрешенная лексема (0600002E) WinForms.MyForm6::.ctor
+MyForm1.obj : error LNK2020: неразрешенная лексема (06000073) WinForms.MyForm6::.ctor
+MyForm6.obj : error LNK2020: неразрешенная лексема (0600002F) WinForms.MyForm6::~MyForm6
+MyForm1.obj : error LNK2020: неразрешенная лексема (06000074) WinForms.MyForm6::~MyForm6
+C:\Users\пк\source\repos\WinForms\x64\Debug\WinForms.exe : fatal error LNK1120: неразрешенных внешних элементов: 45

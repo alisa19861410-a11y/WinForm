@@ -1,0 +1,8 @@
+C:\Users\пк\source\repos\WinForms\WinForms\x64\Debug\WinForms.vcxproj.AssemblyReference.cache
+C:\Users\пк\source\repos\WinForms\WinForms\x64\Debug\WinForms.MyForm1.resources
+C:\Users\пк\source\repos\WinForms\WinForms\x64\Debug\WinForms.MyForm2.resources
+C:\Users\пк\source\repos\WinForms\WinForms\x64\Debug\WinForms.vcxproj.GenerateResource.cache
+C:\Users\пк\source\repos\WinForms\WinForms\x64\Debug\WinForms.MyForm3.resources
+C:\Users\пк\source\repos\WinForms\WinForms\x64\Debug\WinForms.MyForm4.resources
+C:\Users\пк\source\repos\WinForms\WinForms\x64\Debug\WinForms.MyForm5.resources
+C:\Users\пк\source\repos\WinForms\WinForms\x64\Debug\WinForms.MyForm6.resources
